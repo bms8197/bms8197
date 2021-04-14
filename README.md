@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bms8197
-- 👀 I’m interested in Linux and sexy chicks!
+- 👋 Hi, I’m @bms8197, an enthusiastic linux user currently working as a SysAdmin & DevOps.
+- 👀 I’m interested in Linux, technology, travelling and sexy chicks!
 - 🌱 I’m currently learning how to achieve financial freedom.
 - 💞️ I’m looking to collaborate on part-time and remote projects.
 - 📫 How to reach me? Just visit https://898.ro
